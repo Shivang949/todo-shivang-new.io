@@ -68,7 +68,6 @@ pyrsistent
 python-dateutil
 python-dotenv
 pytz
-pywin32
 pywinpty
 pyzmq
 requests
